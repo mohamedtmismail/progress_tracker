@@ -7,7 +7,7 @@
 #### Technical
 
 - Clean Code: page 250
-- The Pragmatic Programmer: page 136
+- The Pragmatic Programmer: page 141
 
 #### Non-Technical
 
