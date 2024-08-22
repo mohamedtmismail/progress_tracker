@@ -1,3 +1,9 @@
 # Ibrahim's progress journal
 
-- add step here
+## Months 0-1 (July-August 24)
+
+### Reading
+
+#### Technical
+
+bookname: pages...
