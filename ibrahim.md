@@ -1,9 +1,27 @@
 # Ibrahim's progress journal
 
-## Months 0-1 (July-August 24)
+## Month 0 (July 24) - Month 1 (August 24)
 
 ### Reading
 
 #### Technical
 
-bookname: pages...
+- Clean Code:✅
+- The Pragmatic Programmer: page 30
+
+#### Non-Technical
+
+- Rich dad poor dad: page 135
+
+### Courses
+
+- The Last Algorithms Course by Prime on Frontendmasters
+
+### Other
+
+#### New Environments and Tools explored
+
+- started using flutter
+- did some frontend projects using html and css
+
+## Month 2 - 3 (September/October 24)
