@@ -28,5 +28,6 @@
 - researched multiple AI tools and libraries like mediapipe, opencv, tensorflow, pytorch, fastai, Huggingface, ollama, flux.1
 - Done a few experiments with speech recognition using whisper by openai
 - Done an experiment with deepfakes using hacksider Deep-Live-cam on github
+- Docker and containers
 
 ## Month 2 - 3 (September/October 24)
