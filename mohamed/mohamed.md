@@ -31,3 +31,21 @@
 - Docker and containers
 
 ## Month 2 - 3 (September/October 24)
+
+### Reading
+
+- Pragmatic Programmer: page 141-> 179
+- Clean Code Page: 250->
+
+### Courses
+
+- 48 Laws of Power: 47%
+
+### Events
+
+- Microsoft AI summer stories London reactor
+- Motorola Product showcase
+
+### Other
+
+####
