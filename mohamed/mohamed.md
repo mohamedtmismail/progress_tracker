@@ -15,7 +15,7 @@
 
 ### Courses
 
-- The Last Algorithms Course by Prime on Frontendmasters
+- The Last Algorithms Course by Prime on Frontendmasters -> queues
 
 ### Other
 
@@ -34,17 +34,19 @@
 
 ### Reading
 
-- Pragmatic Programmer: page 141-> 179
+- Pragmatic Programmer: page 141-> 215
 - Clean Code Page: 250->
+- 48 Laws of Power: 47%
 
 ### Courses
 
-- 48 Laws of Power: 47%
+- Frontendmasters prime algo course: queue -> 
 
 ### Events
 
 - Microsoft AI summer stories London reactor
 - Motorola Product showcase
+- Big Data London
 
 ### Other
 
