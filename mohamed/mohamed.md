@@ -34,7 +34,7 @@
 
 ### Reading
 
-- Pragmatic Programmer: page 141-> 215
+- Pragmatic Programmer: page 141-> 242
 - Clean Code Page: 250->
 - 48 Laws of Power: 47%
 
