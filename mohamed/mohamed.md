@@ -34,13 +34,13 @@
 
 ### Reading
 
-- Pragmatic Programmer: page 141-> 242
+- Pragmatic Programmer: page 141-> 283 (finished)
 - Clean Code Page: 250->
-- 48 Laws of Power: 47%
+- 48 Laws of Power: 50%
 
 ### Courses
 
-- Frontendmasters prime algo course: queue -> 
+- Frontendmasters prime algo course: queue ->
 
 ### Events
 
